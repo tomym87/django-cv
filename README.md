@@ -6,7 +6,7 @@ this is a basic portfolio in dark mode
 ### Installation
 
 ```
-git clone https://github.com/FaztWeb/django-portfolio-simple.git
+git clone https://github.com/tomym87/django-cv.git
 cd django-portfolio-simple
 pip install -r requirements.txt
 python manage.py migrate
